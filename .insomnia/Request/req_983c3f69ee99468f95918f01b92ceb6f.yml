@@ -1,0 +1,27 @@
+_id: req_983c3f69ee99468f95918f01b92ceb6f
+type: Request
+parentId: fld_ecfd5a2cf7964dd2b160507db09f8169
+modified: 1712313587398
+created: 1712312749573
+url: petstore.swagger.io/v2/user/createWithArray
+name: Creates list of users with given input array
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: "{}"
+parameters: []
+headers:
+  - name: Content-Type
+    disabled: false
+    value: application/json
+authentication: {}
+metaSortKey: -1712312749573
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
